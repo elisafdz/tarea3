@@ -1,0 +1,49 @@
+.leaflet-container {
+    width: 70%;
+    height: 60vh;
+  }
+
+.informacion{
+    border-style: solid;
+    /*margin-right: 60%;*/
+    width: 100%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-bottom: 2%;
+    border-color: lightblue;
+    border-radius: 15px;
+    padding: 1%;
+    
+    
+}
+
+.container_informacion{
+  display: flex;
+  flex-direction: row;
+  flex-grow: 10;
+  margin-right: 3%;
+  
+}
+#info-vuelos{
+  margin-left: 3%;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.form{
+  margin-left: 35%;
+  margin-top: 10%;
+}
+
+
+
+.Mapa{
+  margin-left: 2%;
+  margin-top: 1%;
+}
+
+
+

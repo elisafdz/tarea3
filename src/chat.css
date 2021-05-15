@@ -1,0 +1,23 @@
+.chat{
+    border-style: solid;
+    /*margin-right: 60%;*/
+    width: 925px;
+    height: 300px;
+    margin-left: 2%;
+    margin-right: 10%;
+    margin-bottom: 0.5%;
+    border-color: cadetblue;
+    border-radius: 15px;
+    padding: 2%;
+    
+    
+}
+
+.texto-chat{
+    overflow-y: scroll;
+    width: 900px;
+    height: 200px;  
+    margin-bottom:1%;
+    
+
+}
